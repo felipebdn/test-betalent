@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-blue-primary: oklch(45.27% 0.312669 264.3817);
+  --color-blue-10: oklch(95.41% 0.0162 278.51);
+  --color-black-neutral: oklch(22.64% 0 0);
+  --color-gray-20: oklch(69.93% 0 0);
+  --color-gray-10: oklch(90.37% 0 0);
+  --color-gray-5: oklch(97.02% 0 0);
+  --color-gray-0: oklch(95.51% 0 0);
+
+  --font-display: "Roboto", "serif";
+  --shadow-display: 0 2px 4px rgba(0, 0, 0, 0.2);
+  --shadow-row: 0 1px 2px rgba(0, 0, 0, 0.2);
+}

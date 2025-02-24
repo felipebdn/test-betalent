@@ -17,6 +17,6 @@ Basta executar o seguinte comando:
     npm run server
 ### 3. Executar o Projeto
 
-Após instalar as dependências, e iniciar o servidor basta executar o seguinte comando:
+Após instalar as dependências, e iniciar o servidor basta executar o seguinte comando em outra aba do seu terminal:
 
     npm run dev
